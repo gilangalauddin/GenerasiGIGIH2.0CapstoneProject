@@ -48,9 +48,9 @@ Our project was a collaborative effort, and we had a dedicated team of five memb
 - Member 2: [Gilang Ardi Bhaskara Alauddin](https://www.linkedin.com/in/gilang-alauddin/)
 - Member 3: [Melania Justice Panggabean](https://www.linkedin.com/in/melania-justice-panggabean/)
 - Member 4: [Gifari Rachmawan](https://www.linkedin.com/in/gifarirachmawan/)
-- Member 5: [Salsabilla Tiaratama Herin Wiraksa](https://www.linkedin.com/in/salsarhmdn/)
+- Member 5: [Salsabilla Tiaratama Herin Wiraksa](https://www.linkedin.com/in/salsabilla-tiaratama-herin-wiraksa/)
 
-- Mentor : [Salsabilla Tiaratama Herin Wiraksa](https://www.linkedin.com/in/muhammad-ryan-39a58111b/)
+- Mentor : [Muhammad Ryan](https://www.linkedin.com/in/muhammad-ryan-39a58111b/)
 
 ## Conclusion
 
