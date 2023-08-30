@@ -1,5 +1,7 @@
 # Extreme Rainfall Forecast Dashboard in Bogor Region
 
+[Dashboard Link](https://lookerstudio.google.com/u/0/reporting/35b237f7-689b-4ef8-b8bd-208d1223f141/page/6zXD?s=v9zehAcGju4)
+
 [![Capture](https://github.com/gilangalauddin/GenerasiGIGIH2.0CapstoneProject/assets/138756579/37647d29-8e28-4651-9bc0-a06addb39055)](https://lookerstudio.google.com/u/0/reporting/35b237f7-689b-4ef8-b8bd-208d1223f141/page/6zXD?s=v9zehAcGju4)
 
 This repository contains the results of our capstone project, which was undertaken during the Data Analyst Bootcamp by Yayasan Anak Bangsa Bisa in 2022. Our project focused on Disaster Management, specifically the creation of an Extreme Rainfall Forecast Dashboard for the Bogor Region.
@@ -39,6 +41,7 @@ The end product of our project is a user-friendly dashboard that provides vital 
 - Historical rainfall data analysis
 - Visualizations
 - User-friendly interface for easy navigation
+- [Dashboard Link](https://lookerstudio.google.com/u/0/reporting/35b237f7-689b-4ef8-b8bd-208d1223f141/page/6zXD?s=v9zehAcGju4)
 
 ## The Team
 
